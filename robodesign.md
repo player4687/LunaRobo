@@ -47,3 +47,8 @@ There should be space to get the cables flexible and do enough movement.
  (iii) Shoulder mount concept
  (iv) Mechanical clearance
  (v )Make the schematics and pcb
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Head Image: 
+ ![alt text](image.png)
